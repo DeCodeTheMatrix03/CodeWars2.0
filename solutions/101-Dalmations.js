@@ -14,6 +14,6 @@ function howManyDalmatians(number){
     } else if (number === 101) {
       return "101 DALMATIANS!!!"
     } else {
-      return "Woah that's a lot of dogs!" 
+      return "Woah that's alot of dogs!" 
     }
   }
