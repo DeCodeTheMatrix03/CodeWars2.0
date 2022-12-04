@@ -9,7 +9,7 @@ Your function will be tested with pre-made examples as well as random ones.
 //Solution:
 
 function findDifference(a, b) {
-    let difference = a[0] * a[1] * a[2] - b[0] * b[1] * b[2]
-    return Math.abs(difference)
+    let differences = a[0] * a[1] * a[2] - b[0] * b[1] * b[2]
+    return Math.abs(differences)
 }
 
