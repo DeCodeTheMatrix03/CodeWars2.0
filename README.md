@@ -1,2 +1,5 @@
 <h1> Daily-Challenges</h1>
-Daily Coding Challenge to start off my day and learn new ways to solve coding problems!
+<p>This repo consists of daily coding challenges I use to start off my day and learn new ways to approach coding problems!</p>
+
+<h2>How It's Made<h2>
+<h3>Tech Used:</h3><p>JavaScript</p>
